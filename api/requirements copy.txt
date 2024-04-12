@@ -1,0 +1,7 @@
+ctransformers==0.2.27
+fastapi==0.110.1
+protobuf==4.25.3
+pydantic==2.6.4
+torch==2.2.2
+transformers==4.39.3
+uvicorn==0.25.0
